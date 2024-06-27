@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HAPI-Website/static/css/main.344ff064.css",
-    "main.js": "/HAPI-Website/static/js/main.c83b5a05.js",
+    "main.js": "/HAPI-Website/static/js/main.bafcc658.js",
     "static/media/Apple.png": "/HAPI-Website/static/media/Apple.6a7438ad158ea5f8c886.png",
     "static/media/Tomato.jpg": "/HAPI-Website/static/media/Tomato.e0023def6567e2bdc9cb.jpg",
     "static/media/First to appear.png": "/HAPI-Website/static/media/First to appear.5a266a714b2e24249466.png",
@@ -35,10 +35,10 @@
     "static/media/bacterial_blight.jpg": "/HAPI-Website/static/media/bacterial_blight.3461707395f3879637a9.jpg",
     "index.html": "/HAPI-Website/index.html",
     "main.344ff064.css.map": "/HAPI-Website/static/css/main.344ff064.css.map",
-    "main.c83b5a05.js.map": "/HAPI-Website/static/js/main.c83b5a05.js.map"
+    "main.bafcc658.js.map": "/HAPI-Website/static/js/main.bafcc658.js.map"
   },
   "entrypoints": [
     "static/css/main.344ff064.css",
-    "static/js/main.c83b5a05.js"
+    "static/js/main.bafcc658.js"
   ]
 }
